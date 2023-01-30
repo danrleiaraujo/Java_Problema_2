@@ -1,2 +1,2 @@
-# Java_Problema_2
+# MI - Java
 Problema 2 de java
